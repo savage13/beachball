@@ -1,7 +1,7 @@
 # beachball
 Leaflet Plugin for Beachballs / Moment Tensors
 
-```
+```js
 <!-- After Leaflet -->
 <script src="beachball.js"></script>
 
